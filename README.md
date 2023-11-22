@@ -7,3 +7,4 @@ Scott Moss
   - Setup Next.js
   - npm i -S eslint-config-next@13.4.5 next@13.4.5
   - Setup App & Homepage
+  - Homepage with Tailwind CSS & Link
