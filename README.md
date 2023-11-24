@@ -8,3 +8,5 @@ Scott Moss
   - npm i -S eslint-config-next@13.4.5 next@13.4.5
   - Setup App & Homepage
   - Homepage with Tailwind CSS & Link
+  - https://clerk.com/docs/quickstarts/nextjs
+  - Authentication with Clerk
