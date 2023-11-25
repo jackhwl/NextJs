@@ -13,4 +13,9 @@ Scott Moss
   - Authentication Middleware
 ## Connecting to a Database
   - Underestanding Webhooks
-  
+  - Serverless Database with PlanetScale
+    - pscale auth login
+    - pscale org switch frondendmasters
+    - pscale branch createe mood dev
+    - pscale connect mood dev --port 3309
+
