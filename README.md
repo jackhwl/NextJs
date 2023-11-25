@@ -10,3 +10,4 @@ Scott Moss
   - Homepage with Tailwind CSS & Link
   - https://clerk.com/docs/quickstarts/nextjs
   - Authentication with Clerk
+  - Authentication Middleware
