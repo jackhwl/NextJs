@@ -11,3 +11,6 @@ Scott Moss
   - https://clerk.com/docs/quickstarts/nextjs
   - Authentication with Clerk
   - Authentication Middleware
+## Connecting to a Database
+  - Underestanding Webhooks
+  
