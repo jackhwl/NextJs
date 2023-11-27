@@ -18,4 +18,8 @@ Scott Moss
     - pscale org switch frondendmasters
     - pscale branch createe mood dev
     - pscale connect mood dev --port 3309
-
+  - Setup Prisma ORM
+    - npm i @prisma/client
+    - npm i prisma -D
+    - npx prisma init
+    - npx prisma db push
