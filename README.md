@@ -27,3 +27,4 @@ Scott Moss
   - Analysis Schema
     - npx prisma format
     - npx prisma db push
+  - Database Utility Methods
