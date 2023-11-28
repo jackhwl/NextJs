@@ -23,3 +23,4 @@ Scott Moss
     - npm i prisma -D
     - npx prisma init
     - npx prisma db push
+  - User & JournalEntry Schemas
