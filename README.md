@@ -24,3 +24,6 @@ Scott Moss
     - npx prisma init
     - npx prisma db push
   - User & JournalEntry Schemas
+  - Analysis Schema
+    - npx prisma format
+    - npx prisma db push
