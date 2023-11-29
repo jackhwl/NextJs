@@ -28,3 +28,6 @@ Scott Moss
     - npx prisma format
     - npx prisma db push
   - Database Utility Methods
+## Building the Journal Page
+  - Creating a New User
+    - npx prisma studio
