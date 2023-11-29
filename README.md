@@ -31,3 +31,5 @@ Scott Moss
 ## Building the Journal Page
   - Creating a New User
     - npx prisma studio
+  - Creating the Journal Page
+  
