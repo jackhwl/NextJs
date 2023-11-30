@@ -32,4 +32,5 @@ Scott Moss
   - Creating a New User
     - npx prisma studio
   - Creating the Journal Page
+  - User Profile Widget
   
