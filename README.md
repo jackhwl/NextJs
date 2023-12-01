@@ -34,3 +34,4 @@ Scott Moss
   - Creating the Journal Page
   - User Profile Widget
   - Selecting Journal Entries
+  - New Journal Entry UI
