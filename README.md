@@ -41,3 +41,4 @@ Scott Moss
   - Creating the Entry Page
   - Revalidation
   - Displaying Entry Details
+  - Journal Entry Editor
