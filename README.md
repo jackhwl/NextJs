@@ -37,3 +37,4 @@ Scott Moss
   - New Journal Entry UI
 ## Creating & Updating the Journal Entries
   - Creating a New Entry
+  - EntryCard Component UI
