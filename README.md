@@ -40,3 +40,4 @@ Scott Moss
   - EntryCard Component UI
   - Creating the Entry Page
   - Revalidation
+  - Displaying Entry Details
