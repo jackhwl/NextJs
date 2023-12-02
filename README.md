@@ -38,3 +38,4 @@ Scott Moss
 ## Creating & Updating the Journal Entries
   - Creating a New Entry
   - EntryCard Component UI
+  - Creating the Entry Page
