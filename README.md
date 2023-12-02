@@ -35,3 +35,5 @@ Scott Moss
   - User Profile Widget
   - Selecting Journal Entries
   - New Journal Entry UI
+## Creating & Updating the Journal Entries
+  - Creating a New Entry
