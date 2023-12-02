@@ -39,3 +39,4 @@ Scott Moss
   - Creating a New Entry
   - EntryCard Component UI
   - Creating the Entry Page
+  - Revalidation
