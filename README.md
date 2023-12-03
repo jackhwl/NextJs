@@ -43,3 +43,6 @@ Scott Moss
   - Displaying Entry Details
   - Journal Entry Editor
   - Updating Journal Entries
+  - Autosaving Entries
+    - npm i react-autosave
+    
