@@ -42,3 +42,4 @@ Scott Moss
   - Revalidation
   - Displaying Entry Details
   - Journal Entry Editor
+  - Updating Journal Entries
