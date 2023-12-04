@@ -45,4 +45,5 @@ Scott Moss
   - Updating Journal Entries
   - Autosaving Entries
     - npm i react-autosave
-    
+## Understanding AI & Prompt Engineering
+  - Sidebar UI
