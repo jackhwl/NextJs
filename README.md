@@ -47,3 +47,4 @@ Scott Moss
     - npm i react-autosave
 ## Understanding AI & Prompt Engineering
   - Sidebar UI
+  - LLMs & Prompts
