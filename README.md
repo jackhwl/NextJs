@@ -49,3 +49,4 @@ Scott Moss
   - Sidebar UI
   - LLMs & Prompts
   - OpenAI Setup
+  - Creating Consistent Prompts
