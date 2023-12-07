@@ -48,3 +48,4 @@ Scott Moss
 ## Understanding AI & Prompt Engineering
   - Sidebar UI
   - LLMs & Prompts
+  - OpenAI Setup

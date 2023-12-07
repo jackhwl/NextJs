@@ -1,5 +1,6 @@
 import EntryCard from '@/app/components/EntryCard'
 import NewEntryCard from '@/app/components/NewEntryCard'
+import { analyze } from '@/app/utils/ai'
 import { getUserByClerkID } from '@/app/utils/auth'
 import { prisma } from '@/app/utils/db'
 import Link from 'next/link'
@@ -15,6 +16,8 @@ const getEntries = async () => {
         }
     })
 
+    await analyze('create me a vue component that renders a counting number')
+    
     return entries
 }
 
