@@ -50,3 +50,4 @@ Scott Moss
   - LLMs & Prompts
   - OpenAI Setup
   - Creating Consistent Prompts
+  - Structured Output with Zod
