@@ -51,3 +51,5 @@ Scott Moss
   - OpenAI Setup
   - Creating Consistent Prompts
   - Structured Output with Zod
+## Analyzing Entries
+  - Prompt Template
