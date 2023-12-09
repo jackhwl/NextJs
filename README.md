@@ -53,3 +53,5 @@ Scott Moss
   - Structured Output with Zod
 ## Analyzing Entries
   - Prompt Template
+  - Testing the Prompt Template
+  - Saving Analysis to Database
