@@ -56,3 +56,4 @@ Scott Moss
   - Testing the Prompt Template
   - Saving Analysis to Database
   - Connecting the Sidebar UI
+  - Adding Analysis Data to Entry
