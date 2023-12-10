@@ -55,3 +55,4 @@ Scott Moss
   - Prompt Template
   - Testing the Prompt Template
   - Saving Analysis to Database
+  - Connecting the Sidebar UI
