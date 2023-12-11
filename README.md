@@ -57,3 +57,4 @@ Scott Moss
   - Saving Analysis to Database
   - Connecting the Sidebar UI
   - Adding Analysis Data to Entry
+  - Revalidation & Client State Management
