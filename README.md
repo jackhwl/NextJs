@@ -58,3 +58,4 @@ Scott Moss
   - Connecting the Sidebar UI
   - Adding Analysis Data to Entry
   - Revalidation & Client State Management
+  - Navigation
