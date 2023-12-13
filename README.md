@@ -61,3 +61,4 @@ Scott Moss
   - Navigation
 ## Vectors & Similarity Searching
   - Entry Search UI
+  - Vector Database Overview
