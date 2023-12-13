@@ -59,3 +59,5 @@ Scott Moss
   - Adding Analysis Data to Entry
   - Revalidation & Client State Management
   - Navigation
+## Vectors & Similarity Searching
+  - Entry Search UI
