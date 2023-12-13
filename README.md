@@ -62,3 +62,4 @@ Scott Moss
 ## Vectors & Similarity Searching
   - Entry Search UI
   - Vector Database Overview
+  - Similarity Searches with Vectors
