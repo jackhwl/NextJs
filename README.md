@@ -63,3 +63,4 @@ Scott Moss
   - Entry Search UI
   - Vector Database Overview
   - Similarity Searches with Vectors
+  - Search API & Results
