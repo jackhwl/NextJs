@@ -64,3 +64,5 @@ Scott Moss
   - Vector Database Overview
   - Similarity Searches with Vectors
   - Search API & Results
+## Sentiment Analysis
+  - Computing a Sentiment Score
